@@ -18,7 +18,7 @@ public class SpringBootRunnerApplication implements CommandLineRunner{
 
 	@Override
 	public void run(String... args) throws Exception {
-		System.out.println("Employee details "+emp);
+		System.out.println("Employee details are "+emp);
 		
 	}
 
